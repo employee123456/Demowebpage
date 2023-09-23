@@ -2,11 +2,17 @@ package demoweb;
 
 public class newwebpage {
 
-    public static void main(String []args){
-        public void newpage(){
+
+        public void newpage() {
             //temp
-        //new change bu akash
+            //new change by akash
+            //change added by aksh in new branch
+            //added some new feature
+
+        }
+        public void method_added_new_branch () {
+
 
         }
     }
-}
+
